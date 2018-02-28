@@ -3,7 +3,9 @@ import { CommonModule } from '@angular/common';
 import {RouterModule} from '@angular/router';
 
 const routes = [
-  {path: 'admin', loadChildren: './admin/admin.module#AdminModule'}
+  {path: 'admin', loadChildren: './admin/admin.module#AdminModule'},
+  {path: 'member', loadChildren: './user/user.module#UserModule'}
+
 ]
 
 @NgModule({
