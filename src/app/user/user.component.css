@@ -1,0 +1,22 @@
+#userframe{
+  background: #fff;
+  font: 15px "Helvetica Neue",Helvetica,Arial,sans-serif;
+  text-decoration: none;
+}
+#textarea{
+  padding: 3.5em 0 0;
+  border-bottom: none;
+  position: relative;
+  margin: 0 0 1.625em;
+  display: block;
+}
+
+#textareaframe{
+  padding: 70px 15% 15% ;
+  position: relative;
+  width: auto;
+}
+.Text{
+  font: 15px "Helvetica Neue",Helvetica,Arial,sans-serif;
+  color: #373737;
+}
